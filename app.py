@@ -44,7 +44,7 @@ st.sidebar.markdown(
     
 )
 
-openai.api_key = "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"
+openai.api_key = "YOUR_KEY"
 user_age = st.text_input("Your Age")
 user_interests = st.text_input("Your Interests")
 
