@@ -68,3 +68,7 @@ allowing users to personalize their experience and explore the incredible possib
 
 
 Feel free to customize the README file further to include additional information, acknowledgments, or usage instructions as needed.
+
+
+![image](https://github.com/Magda-Elkot/Open-Science-Storytelling/assets/121414067/3edc2955-66ba-4f16-a8ae-00a046a9738c)
+
