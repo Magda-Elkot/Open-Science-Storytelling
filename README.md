@@ -47,13 +47,10 @@ allowing users to personalize their experience and explore the incredible possib
     `base64`
     `io`
     `gtts`
-    `json`
-    `requests`
-    `streamlit_lottie`
 
   ### You can install these packages using pip:
 
-  `pip install streamlit openai pyttsx3 Pillow gtts requests streamlit-lottie`
+  `pip install streamlit openai pyttsx3 Pillow gtts `
 
 # Usage
 ### Clone this repository to your local machine.
